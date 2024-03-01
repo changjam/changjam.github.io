@@ -1,0 +1,194 @@
+{
+    "post_card": {
+        "name": "張家誠",
+        "school": "雲林科技大學 資訊管理系",
+        "content": "台中出生，雲林就學，畢業後在高雄工作，喜歡運動善於溝通，我的專業技能包括網頁切版，API 架設，Chrome Extension 開發，爬蟲技術，以及與 AI 模型的串接。"
+    },
+    "photo_dataList": [
+        {
+            "title": "85大樓",
+            "subtitle": "高雄 苓雅"
+        },
+        {
+            "title": "忘憂谷",
+            "subtitle": "台中 外埔"
+        }
+    ],
+    "skill_dataList": [
+        {
+            "name": "網頁前端",
+            "content": "我專精於 Vue.js 框架的開發，並善用 Scss 和 eslint 來確保程式碼的高品質。此外，我也具有 React.js、Next.js、以及 Bootstrap 開發的經驗，這些技能使我能夠快速開發 SPA 架構的網站。",
+            "skill_imageList": ["src/assets/images/vue_logo.png",
+                                "src/assets/images/react_logo.png",
+                                "src/assets/images/next_logo.png",
+                                "src/assets/images/bootstrap_logo.webp",
+                                "src/assets/images/eslint_logo.png",
+                                "src/assets/images/scss_logo.png"]
+        },{
+            "name": "網頁後端",
+            "content": "我熟練使用 Python、Node.js 和 Java 這些程式語言，並且擁有架設API和資料庫的豐富經驗。",
+            "skill_imageList": ["src/assets/images/Python_logo.png",
+                                "src/assets/images/fastapi_logo.png",
+                                "src/assets/images/nodejs_logo.png",
+                                "src/assets/images/java_logo.png"]
+        },{
+            "name": "AI實作",
+            "content": "我有使用過許多模型的經驗，如YOLO、Unet、Stable Diffusion、CLIP及不同的大型語言模型，這些經驗豐富了我的 AI 知識，並使我對機器學習和深度學習有更深入的了解。",
+            "skill_imageList": ["src/assets/images/OpenAi_logo.png"]
+        },{
+            "name": "其他技術",
+            "content": "熟悉使用Linux系統，曾寫過 Chrome Extension 來爬取需要的資料。",
+            "skill_imageList": ["src/assets/images/docker_logo.png",
+                                "src/assets/images/mysql_logo.png"]
+        }
+    ],
+    "tiles_dataList": [
+        {
+            "id": "Graduation_Project",
+            "name": "畢業專題",
+            "img": "src/assets/images/robot.png"
+        },
+        {
+            "id": "Resume",
+            "name": "履歷",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1792px-PDF_icon.svg.png"
+        },
+        {
+            "id": "IG",
+            "name": "IG",
+            "img": "src/assets/images/ig_logo.png"
+        },
+        {
+            "id": "GitHub",
+            "name": "GitHub",
+            "img": "src/assets/images/github_logo.png"
+        },
+        {
+            "id": "Gmail",
+            "name": "Gmail",
+            "img": "src/assets/images/gmail_logo.webp"
+        },
+        {
+            "id": "YT",
+            "name": "YT",
+            "img": "src/assets/images/YT_logo.png"
+        }
+    ],
+    "projectContent":{
+        "category": "畢業專題",
+        "pre_title": "透過",
+        "title_special": ["深度學習模型", "Unet"],
+        "post_title": "判斷插管位置是否正確",
+        "description":{
+            "sub_title": "　　該專題改善了醫生用肉眼看 X 光影像判斷插管位置是否恰當的方式，改以模型輔助判斷，可分成 4 大步驟。",
+            "steps_wrapper": [
+                {
+                    "id": "1",
+                    "content": "使用 U-net 分析胸腔 X 光照片並分割出氣管內插管以及氣管分岔。",
+                    "image": "src/assets/images/project_1.png"
+                },
+                {
+                    "id": "2",
+                    "content": "找到插管端點及氣管分岔點。",
+                    "image": "src/assets/images/project_2.png"
+                },
+                {
+                    "id": "3",
+                    "content": "利用得出的兩點判斷氣管內插管的位置是否正確。",
+                    "image": "src/assets/images/project_3.png"
+                },
+                {
+                    "id": "4",
+                    "content": "利用多種 U-net 變體模型分割出的結果進行系集，提高模型精準度。",
+                    "image": "src/assets/images/project_4.png"
+                }
+            ]
+        }
+    },
+    "portfolioCards":[
+        {
+            "id": "ETT_Website",
+            "name": "ETT website (pure front-end)",
+            "src": "src/assets/images/ETT_Website.png",
+            "desc": "提供使用者偵測氣管內插管的網站，可判斷位置是否正常，版本為vue2。",
+            "link": "https://github.com/changjam/ETT_Website",
+            "tag": ["Vue", "JS", "HTML"]
+        },
+        {
+            "id": "Typing_Game",
+            "name": "Typing Game",
+            "src": "src/assets/images/typing_game.png",
+            "desc": "一個簡單的打字遊戲，參考網站「MonkeyType」，版本為vue3。",
+            "link": "https://github.com/changjam/Typing-Game",
+            "tag": ["Vue", "JS", "HTML", "SCSS"]
+        },
+        {
+            "id": "Memorandum_Website",
+            "name": "Memorandum Website",
+            "src": "src/assets/images/Memo_website.png",
+            "desc": "備忘錄，使用前端框架Vue實作，版本為vue2。",
+            "link": "https://github.com/changjam/Memoradum_Website",
+            "tag": ["Vue", "JS", "HTML"]
+        },
+        {
+            "id": "Text_Editor",
+            "name": "Text Editor",
+            "src": "src/assets/images/Text_Editor.png",
+            "desc": "利用16個Pattern與物件導向的概念實做出的文字編輯器。",
+            "link": "https://github.com/changjam/Text_Editor",
+            "tag": ["Java"]
+        },
+        {
+            "id": "Online_Shopping_System",
+            "name": "Online Shopping System",
+            "src": "src/assets/images/OnlineShoppingSystem.png",
+            "desc": "資料庫課程實做的課堂專案",
+            "link": "https://github.com/changjam/Simple_Online_Shopping_System",
+            "tag": ["HTML", "PHP", "CSS"]
+        },
+        {
+            "id": "Fake_Image_Server",
+            "name": "Fake Image Server",
+            "src": "src/assets/images/fake_image_server.png",
+            "desc": "會回傳圖片，可作為網頁開發時的假圖。",
+            "link": "https://github.com/changjam/Fake_Image_Server",
+            "tag": ["JS"]
+        }
+    ],
+    "Notes":[
+        {
+            "id": "program",
+            "title": "程式技術",
+            "icon_src": "src/assets/images/programming_icon.png",
+            "notesList": [
+                {
+                    "id": "fetch_and_axios",
+                    "title": "Fetch和Axios的比較",
+                    "last_update": "2024/02/28"
+                },
+                {
+                    "id": "python_dataStructure",
+                    "title": "Python中常見的資料結構",
+                    "last_update": "2024/02/28"
+                }
+            ]
+        },
+        {
+            "id": "receipt",
+            "title": "食譜",
+            "icon_src": "src/assets/images/receipt.png",
+            "notesList": [
+                {
+                    "id": "mushroom_chicken_soup",
+                    "title": "香菇雞湯",
+                    "last_update": "2024/02/28"
+                },
+                {
+                    "id": "egg_fried_rice",
+                    "title": "蛋炒飯",
+                    "last_update": "2024/02/28"
+                }
+            ]
+        }
+    ]
+}

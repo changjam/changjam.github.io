@@ -1,0 +1,196 @@
+{
+    "post_card": {
+        "name": "CHIA-CHENG CHANG",
+        "school": "Graduation College and department: Yuntech, IM",
+        "content": "My professional skills include website development, API construction, Chrome Extension development, web crawler, and integration with AI models."
+    },
+    "photo_dataList": [
+        {
+            "title": "85 Sky Tower",
+            "subtitle": "Lingya, Kaohsiung"
+        },
+        {
+            "title": "Forget Worry Valley",
+            "subtitle": "Waipu, Taichung"
+        }
+    ],
+    "skill_dataList": [
+        {
+            "name": "Front-end Development",
+            "content": "I specialize in Vue.js framework development and utilize Scss and eslint to ensure high-quality code. Additionally, I have experience with React.js, Next.js, and Bootstrap development, enabling me to quickly develop SPA architecture websites.",
+            "skill_imageList": ["src/assets/images/vue_logo.png",
+                                "src/assets/images/react_logo.png",
+                                "src/assets/images/next_logo.png",
+                                "src/assets/images/bootstrap_logo.webp",
+                                "src/assets/images/eslint_logo.png",
+                                "src/assets/images/scss_logo.png"]
+        },{
+            "name": "Back-end Development",
+            "content": "I am proficient in Python, Node.js, and Java, with rich experience in building APIs and databases.",
+            "skill_imageList": ["src/assets/images/Python_logo.png",
+                                "src/assets/images/fastapi_logo.png",
+                                "src/assets/images/nodejs_logo.png",
+                                "src/assets/images/java_logo.png"]
+        },{
+            "name": "AI Implementation",
+            "content": "I have experience with various models such as YOLO, Unet, Stable Diffusion, CLIP, and different large-scale language models. These experiences have enriched my AI knowledge and deepened my understanding of machine learning and deep learning.",
+            "skill_imageList": ["src/assets/images/OpenAi_logo.png"]
+        },{
+            "name": "Other",
+            "content": "Proficient in using Linux systems, and have written Chrome Extensions to scrape needed data.",
+            "skill_imageList": ["src/assets/images/docker_logo.png",
+                                "src/assets/images/mysql_logo.png"]
+        }
+    ],
+    "tiles_dataList": [
+        {
+            "id": "Graduation_Project",
+            "name": "Project",
+            "img": "src/assets/images/robot.png"
+        },
+        {
+            "id": "Resume",
+            "name": "Resume",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PDF_icon.svg/1792px-PDF_icon.svg.png"
+        },
+        {
+            "id": "IG",
+            "name": "IG",
+            "img": "src/assets/images/ig_logo.png"
+        },
+        {
+            "id": "GitHub",
+            "name": "GitHub",
+            "img": "src/assets/images/github_logo.png"
+        },
+        {
+            "id": "Gmail",
+            "name": "Gmail",
+            "img": "src/assets/images/gmail_logo.webp"
+        },
+        {
+            "id": "YT",
+            "name": "YT",
+            "img": "src/assets/images/YT_logo.png"
+        }
+    ],
+    "projectContent":{
+        "category": "Graduation Project",
+        "pre_title": "The use of",
+        "title_special": ["DL Model", "Unet"],
+        "post_title": "to Determine the Correct Position of the Endotracheal Tube",
+        "description":{
+            "sub_title": "　　This project improves the traditional method of doctors visually inspecting X-ray images to determine the appropriate position of an endotracheal tube, using a model-assisted approach. It can be divided into 4 main steps.",
+            "steps_wrapper": [
+                {
+                    "id": "1",
+                    "content": "Using U-net to analyze chest X-ray images and segment the endotracheal tube and tracheal bifurcation.",
+                    "image": "src/assets/images/project_1.png"
+                },
+                {
+                    "id": "2",
+                    "content": "Locating the end points of the tube and tracheal bifurcation.",
+                    "image": "src/assets/images/project_2.png"
+                },
+                {
+                    "id": "3",
+                    "content": "Using the identified points to determine if the endotracheal tube is positioned correctly within the trachea.",
+                    "image": "src/assets/images/project_3.png"
+                },
+                {
+                    "id": "4",
+                    "content": "Ensemble the results obtained from various U-net variant models to improve model accuracy.",
+                    "image": "src/assets/images/project_4.png"
+                }
+            ]
+        }
+    },
+    "portfolioCards":[
+        {
+            "id": "ETT_Website",
+            "name": "ETT website (pure front-end)",
+            "src": "src/assets/images/ETT_Website.png",
+            "desc": "A website for users to detect the position of an endotracheal tube, determining if it's positioned correctly. Built with vue2.",
+            "link": "https://github.com/changjam/ETT_Website",
+            "tag": ["Vue", "JS", "HTML"]
+        },
+        {
+            "id": "Typing_Game",
+            "name": "Typing Game",
+            "src": "src/assets/images/typing_game.png",
+            "desc": "A simple typing game inspired by the website 'MonkeyType'. Built with vue3.",
+            "link": "https://github.com/changjam/Typing-Game",
+            "tag": ["Vue", "JS", "HTML", "SCSS"]
+        },
+        {
+            "id": "Memorandum_Website",
+            "name": "Memorandum Website",
+            "src": "src/assets/images/Memo_website.png",
+            "desc": "A memo website implemented using the Vue frontend framework. Built with vue2.",
+            "link": "https://github.com/changjam/Memoradum_Website",
+            "tag": ["Vue", "JS", "HTML"]
+        },
+        {
+            "id": "Text_Editor",
+            "name": "Text Editor",
+            "src": "src/assets/images/Text_Editor.png",
+            "desc": "A text editor implemented using 16 patterns and object-oriented concepts.",
+            "link": "https://github.com/changjam/Text_Editor",
+            "tag": ["Java"]
+        },
+        {
+            "id": "Online_Shopping_System",
+            "name": "Online Shopping System",
+            "src": "src/assets/images/OnlineShoppingSystem.png",
+            "desc": "A classwork project implemented a shopping website with database.",
+            "link": "https://github.com/changjam/Simple_Online_Shopping_System",
+            "tag": ["HTML", "PHP", "CSS"]
+        },
+        {
+            "id": "Fake_Image_Server",
+            "name": "Fake Image Server",
+            "src": "src/assets/images/fake_image_server.png",
+
+
+            "desc": "A server that returns fake images, useful for web development purposes.",
+            "link": "https://github.com/changjam/Fake_Image_Server",
+            "tag": ["JS"]
+        }
+    ],
+    "Notes":[
+        {
+            "id": "program",
+            "title": "Program",
+            "icon_src": "src/assets/images/programming_icon.png",
+            "notesList": [
+                {
+                    "id": "fetch_and_axios",
+                    "title": "Comparison between Fetch and Axios",
+                    "last_update": "2024/02/28"
+                },
+                {
+                    "id": "python_dataStructure",
+                    "title": "Common Data Structures in Python",
+                    "last_update": "2024/02/28"
+                }
+            ]
+        },
+        {
+            "id": "receipt",
+            "title": "Recipes",
+            "icon_src": "src/assets/images/receipt.png",
+            "notesList": [
+                {
+                    "id": "mushroom_chicken_soup",
+                    "title": "Mushroom Chicken Soup",
+                    "last_update": "2024/02/28"
+                },
+                {
+                    "id": "egg_fried_rice",
+                    "title": "Egg Fried Rice",
+                    "last_update": "2024/02/28"
+                }
+            ]
+        }
+    ]
+}

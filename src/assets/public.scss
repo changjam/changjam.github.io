@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&family=RocknRoll+One&display=swap');
+$brown1: #ad865f;
+$brown2: rgb(215, 186, 158);
+$pink1: rgb(255, 180, 180);
+$light1: #fdfbfa;
+$dark1: rgb(18, 30, 42);
+$dark1_light: rgba(18, 30, 42, 0.904);
+$dark2: #00000019;
+$dark3: rgb(77, 77, 77);
+$blue1: rgb(201, 217, 255);
+$blue2: rgb(125, 164, 254);
+
+$font_style: 'RocknRoll One', 'Noto Sans TC', sans-serif;
+$content_size: 22px;
+
+$top-gap: 40px;
+$mobile-top-gap: 20px;
+
+$project-height: 100vh;
+$project-width: 1024px;
+$mobile-project-width: 96%;
+
+*{
+    padding: 0;
+    margin: 0;
+}
