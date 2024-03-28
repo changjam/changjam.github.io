@@ -16,7 +16,7 @@
     ],
     "skill_dataList": [
         {
-            "name": "Front-end Development",
+            "name": "Front-end",
             "content": "I specialize in Vue.js framework development and utilize Scss and eslint to ensure high-quality code. Additionally, I have experience with React.js, Next.js, and Bootstrap development, enabling me to quickly develop SPA architecture websites.",
             "skill_imageList": ["src/assets/images/vue_logo.png",
                                 "src/assets/images/react_logo.png",
@@ -25,14 +25,14 @@
                                 "src/assets/images/eslint_logo.png",
                                 "src/assets/images/scss_logo.png"]
         },{
-            "name": "Back-end Development",
+            "name": "Back-end",
             "content": "I am proficient in Python, Node.js, and Java, with rich experience in building APIs and databases.",
             "skill_imageList": ["src/assets/images/Python_logo.png",
                                 "src/assets/images/fastapi_logo.png",
                                 "src/assets/images/nodejs_logo.png",
                                 "src/assets/images/java_logo.png"]
         },{
-            "name": "AI Implementation",
+            "name": "AI",
             "content": "I have experience with various models such as YOLO, Unet, Stable Diffusion, CLIP, and different large-scale language models. These experiences have enriched my AI knowledge and deepened my understanding of machine learning and deep learning.",
             "skill_imageList": ["src/assets/images/OpenAi_logo.png"]
         },{
