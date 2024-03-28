@@ -34,7 +34,7 @@
         },{
             "name": "AI實作",
             "content": "我有使用過許多模型的經驗，如YOLO、Unet、Stable Diffusion、CLIP及不同的大型語言模型，這些經驗豐富了我的 AI 知識，並使我對機器學習和深度學習有更深入的了解。",
-            "skill_imageList": ["src/assets/images/OpenAi_logo.png"]
+            "skill_imageList": ["src/assets/images/OpenAI_logo.png"]
         },{
             "name": "其他技術",
             "content": "熟悉使用Linux系統，曾寫過 Chrome Extension 來爬取需要的資料。",

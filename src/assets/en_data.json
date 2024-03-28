@@ -34,7 +34,7 @@
         },{
             "name": "AI",
             "content": "I have experience with various models such as YOLO, Unet, Stable Diffusion, CLIP, and different large-scale language models. These experiences have enriched my AI knowledge and deepened my understanding of machine learning and deep learning.",
-            "skill_imageList": ["src/assets/images/OpenAi_logo.png"]
+            "skill_imageList": ["src/assets/images/OpenAI_logo.png"]
         },{
             "name": "Other",
             "content": "Proficient in using Linux systems, and have written Chrome Extensions to scrape needed data.",
