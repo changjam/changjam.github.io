@@ -7,11 +7,13 @@
     "photo_dataList": [
         {
             "title": "85大樓",
-            "subtitle": "高雄 苓雅"
+            "subtitle": "高雄 苓雅",
+            "guide": "高雄85大樓，位於高雄市苓雅區，緊鄰著高雄港和新光碼頭，是85層樓高的摩天大樓，目前為高雄第一高樓、台灣第二高的大樓。"
         },
         {
             "title": "忘憂谷",
-            "subtitle": "台中 外埔"
+            "subtitle": "台中 外埔",
+            "guide": "台中外埔忘憂谷，以大片的稻田美景聞名，每年6月至11月的時候，總會吸引許多遊客前來拍攝這整片金黃色的稻田景色。"
         }
     ],
     "skill_dataList": [
@@ -37,7 +39,7 @@
             "skill_imageList": ["src/assets/images/OpenAI_logo.png"]
         },{
             "name": "其他技術",
-            "content": "熟悉使用Linux系統，曾寫過 Chrome Extension 來爬取需要的資料。",
+            "content": "會用Docker打包專案。熟悉使用Linux系統，有遠端操作伺服器的經驗。在收集AI訓練所需的訓練資料時，我開發過Chrome Extension來爬取所需資料，資料庫使用MySQL。",
             "skill_imageList": ["src/assets/images/docker_logo.png",
                                 "src/assets/images/mysql_logo.png"]
         }
@@ -164,7 +166,7 @@
                 {
                     "id": "fetch_and_axios",
                     "title": "Fetch和Axios的比較",
-                    "last_update": "2024/02/28"
+                    "last_update": "2024/03/31"
                 },
                 {
                     "id": "python_dataStructure",

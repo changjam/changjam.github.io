@@ -7,11 +7,13 @@
     "photo_dataList": [
         {
             "title": "85 Sky Tower",
-            "subtitle": "Lingya, Kaohsiung"
+            "subtitle": "Lingya, Kaohsiung",
+            "guide": "The Kaohsiung 85 Sky Tower, located in Lingya District, Kaohsiung City, is adjacent to Kaohsiung Port and Shin Kong Mitsukoshi Pier. It is a skyscraper that stands 85 stories tall, currently the tallest building in Kaohsiung and the second tallest in Taiwan."
         },
         {
             "title": "Forget Worry Valley",
-            "subtitle": "Waipu, Taichung"
+            "subtitle": "Waipu, Taichung",
+            "guide": "The Wuling Farm in Waipu, Taichung, is renowned for its vast rice paddies and beautiful scenery. From June to November each year, it always attracts many tourists who come to photograph the entire golden rice field landscape."
         }
     ],
     "skill_dataList": [
@@ -37,7 +39,7 @@
             "skill_imageList": ["src/assets/images/OpenAI_logo.png"]
         },{
             "name": "Other",
-            "content": "Proficient in using Linux systems, and have written Chrome Extensions to scrape needed data.",
+            "content": "I can package projects using Docker. I am proficient in using Linux systems and have experience operating servers remotely. In collecting training data for AI, I have developed a Chrome Extension to scrape the required data, with MySQL as the database.",
             "skill_imageList": ["src/assets/images/docker_logo.png",
                                 "src/assets/images/mysql_logo.png"]
         }
