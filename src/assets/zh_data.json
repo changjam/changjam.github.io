@@ -182,6 +182,11 @@
                     "id": "docker",
                     "title": "docker 常見指令",
                     "last_update": "2024/04/02"
+                },
+                {
+                    "id": "k8s_notes_1",
+                    "title": "k8s筆記 (一)",
+                    "last_update": "2024/04/10"
                 }
             ]
         },
