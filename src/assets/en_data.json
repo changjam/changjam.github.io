@@ -158,56 +158,5 @@
             "link": "https://github.com/changjam/Fake_Image_Server",
             "tag": ["JS"]
         }
-    ],
-    "Notes":[
-        {
-            "id": "program",
-            "title": "Program",
-            "icon_src": "src/assets/images/programming_icon.png",
-            "notesList": [
-                {
-                    "id": "fetch_and_axios",
-                    "title": "Comparison between Fetch and Axios",
-                    "last_update": "2024/02/28"
-                },
-                {
-                    "id": "python_dataStructure",
-                    "title": "Common Data Structures in Python",
-                    "last_update": "2024/02/28"
-                },
-                {
-                    "id": "linux",
-                    "title": "linux common script",
-                    "last_update": "2024/04/02"
-                },
-                {
-                    "id": "docker",
-                    "title": "docker common script",
-                    "last_update": "2024/04/02"
-                },
-                {
-                    "id": "k8s_notes_1",
-                    "title": "k8s notes 1",
-                    "last_update": "2024/04/10"
-                }
-            ]
-        },
-        {
-            "id": "receipt",
-            "title": "Recipes",
-            "icon_src": "src/assets/images/receipt.png",
-            "notesList": [
-                {
-                    "id": "mushroom_chicken_soup",
-                    "title": "Mushroom Chicken Soup",
-                    "last_update": "2024/02/28"
-                },
-                {
-                    "id": "egg_fried_rice",
-                    "title": "Egg Fried Rice",
-                    "last_update": "2024/02/28"
-                }
-            ]
-        }
     ]
 }

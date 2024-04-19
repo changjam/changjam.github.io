@@ -156,56 +156,5 @@
             "link": "https://github.com/changjam/Fake_Image_Server",
             "tag": ["JS"]
         }
-    ],
-    "Notes":[
-        {
-            "id": "program",
-            "title": "程式技術",
-            "icon_src": "src/assets/images/programming_icon.png",
-            "notesList": [
-                {
-                    "id": "fetch_and_axios",
-                    "title": "Fetch和Axios的比較",
-                    "last_update": "2024/03/31"
-                },
-                {
-                    "id": "python_dataStructure",
-                    "title": "Python中常見的資料結構",
-                    "last_update": "2024/02/28"
-                },
-                {
-                    "id": "linux",
-                    "title": "linux 常見指令",
-                    "last_update": "2024/04/02"
-                },
-                {
-                    "id": "docker",
-                    "title": "docker 常見指令",
-                    "last_update": "2024/04/02"
-                },
-                {
-                    "id": "k8s_notes_1",
-                    "title": "k8s筆記 (一)",
-                    "last_update": "2024/04/10"
-                }
-            ]
-        },
-        {
-            "id": "receipt",
-            "title": "食譜",
-            "icon_src": "src/assets/images/receipt.png",
-            "notesList": [
-                {
-                    "id": "mushroom_chicken_soup",
-                    "title": "香菇雞湯",
-                    "last_update": "2024/02/28"
-                },
-                {
-                    "id": "egg_fried_rice",
-                    "title": "蛋炒飯",
-                    "last_update": "2024/02/28"
-                }
-            ]
-        }
     ]
 }
