@@ -75,9 +75,9 @@
             "img": "src/assets/images/gmail_logo.webp"
         },
         {
-            "id": "YT",
-            "name": "YT",
-            "img": "src/assets/images/YT_logo.png"
+            "id": "Linkedin",
+            "name": "Linkedin",
+            "img": "src/assets/images/linkidin_logo.webp"
         }
     ],
     "projectContent":{

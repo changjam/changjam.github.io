@@ -75,9 +75,9 @@
             "img": "src/assets/images/gmail_logo.webp"
         },
         {
-            "id": "YT",
-            "name": "YT",
-            "img": "src/assets/images/YT_logo.png"
+            "id": "Linkedin",
+            "name": "Linkedin",
+            "img": "src/assets/images/linkidin_logo.webp"
         }
     ],
     "projectContent":{
@@ -118,6 +118,7 @@
             "src": "src/assets/images/ETT_Website.png",
             "desc": "提供使用者偵測氣管內插管的網站，可判斷位置是否正常，版本為vue2。",
             "link": "https://github.com/changjam/ETT_Website",
+            "categories": ["Front_End"],
             "tag": ["Vue", "JS", "HTML"]
         },
         {
@@ -126,6 +127,7 @@
             "src": "src/assets/images/typing_game.png",
             "desc": "一個簡單的打字遊戲，參考網站「MonkeyType」，版本為vue3。",
             "link": "https://github.com/changjam/Typing-Game",
+            "categories": ["Front_End"],
             "tag": ["Vue", "JS", "HTML", "SCSS"]
         },
         {
@@ -134,6 +136,7 @@
             "src": "src/assets/images/Memo_website.png",
             "desc": "備忘錄，使用前端框架Vue實作，版本為vue2。",
             "link": "https://github.com/changjam/Memoradum_Website",
+            "categories": ["Front_End"],
             "tag": ["Vue", "JS", "HTML"]
         },
         {
@@ -142,6 +145,7 @@
             "src": "src/assets/images/text_editor.png",
             "desc": "利用16個Pattern與物件導向的概念實做出的文字編輯器。",
             "link": "https://github.com/changjam/Text_Editor",
+            "categories": ["APP"],
             "tag": ["Java"]
         },
         {
@@ -150,6 +154,7 @@
             "src": "src/assets/images/online_shopping_system.png",
             "desc": "資料庫課程實做的課堂專案",
             "link": "https://github.com/changjam/Simple_Online_Shopping_System",
+            "categories": ["Front_End", "Back_End"],
             "tag": ["HTML", "PHP", "CSS"]
         },
         {
@@ -158,6 +163,7 @@
             "src": "src/assets/images/fake_image_server.png",
             "desc": "會回傳圖片，可作為網頁開發時的假圖。",
             "link": "https://github.com/changjam/Fake_Image_Server",
+            "categories": ["Back_End"],
             "tag": ["JS"]
         },
         {
@@ -166,6 +172,7 @@
             "src": "src/assets/images/real_time_speech.png",
             "desc": "使用fast whisper，即時翻譯各國語言。",
             "link": "https://github.com/changjam/real_time_speech_to_text",
+            "categories": ["AI"],
             "tag": ["Python"]
         },
         {
@@ -174,6 +181,7 @@
             "src": "src/assets/images/get_note_api.png",
             "desc": "與 Hack MD API 串接，快速建立和管理你的文章。",
             "link": "https://github.com/changjam/getNoteAPI",
+            "categories": ["Back_End"],
             "tag": ["Python"]
         }
     ]
