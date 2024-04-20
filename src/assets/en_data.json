@@ -28,20 +28,24 @@
                                 "src/assets/images/scss_logo.png"]
         },{
             "name": "Back-end",
-            "content": "I am proficient in Python, Node.js, and Java, with rich experience in building APIs and databases.",
-            "skill_imageList": ["src/assets/images/Python_logo.png",
+            "content": "I am proficient in programming languages ​​​​such as Python, Node.js and Java. I am good at developing APIs using frameworks such as FAST API and Express. My database has used MySQL, MongoDB and Amazon S3 to access data.",
+            "skill_imageList": ["src/assets/images/python_logo.png",
                                 "src/assets/images/fastapi_logo.png",
                                 "src/assets/images/nodejs_logo.png",
-                                "src/assets/images/java_logo.png"]
+                                "src/assets/images/java_logo.png",
+                                "src/assets/images/mysql_logo.png",
+                                "src/assets/images/mongo_db.png"]
         },{
             "name": "AI",
             "content": "I have experience with various models such as YOLO, Unet, Stable Diffusion, CLIP, and different large-scale language models. These experiences have enriched my AI knowledge and deepened my understanding of machine learning and deep learning.",
-            "skill_imageList": ["src/assets/images/OpenAI_logo.png"]
+            "skill_imageList": ["src/assets/images/openAI_logo.png",
+                                "src/assets/images/hugging_face.png"]
         },{
             "name": "Other",
-            "content": "I can package projects using Docker. I am proficient in using Linux systems and have experience operating servers remotely. In collecting training data for AI, I have developed a Chrome Extension to scrape the required data, with MySQL as the database.",
+            "content": "In DevOps applications, I use Docker to package projects and deploy them to cloud platforms such as Google Cloud Platform and Heroku. In addition, I have developed a Chrome Extension to crawl the data required for AI training.",
             "skill_imageList": ["src/assets/images/docker_logo.png",
-                                "src/assets/images/mysql_logo.png"]
+                                "src/assets/images/k8s.png",
+                                "src/assets/images/chrome_extension.webp"]
         }
     ],
     "tiles_dataList": [
@@ -135,7 +139,7 @@
         {
             "id": "Text_Editor",
             "name": "Text Editor",
-            "src": "src/assets/images/Text_Editor.png",
+            "src": "src/assets/images/text_editor.png",
             "desc": "A text editor implemented using 16 patterns and object-oriented concepts.",
             "link": "https://github.com/changjam/Text_Editor",
             "tag": ["Java"]
@@ -143,7 +147,7 @@
         {
             "id": "Online_Shopping_System",
             "name": "Online Shopping System",
-            "src": "src/assets/images/OnlineShoppingSystem.png",
+            "src": "src/assets/images/online_shopping_system.png",
             "desc": "A classwork project implemented a shopping website with database.",
             "link": "https://github.com/changjam/Simple_Online_Shopping_System",
             "tag": ["HTML", "PHP", "CSS"]
@@ -152,11 +156,25 @@
             "id": "Fake_Image_Server",
             "name": "Fake Image Server",
             "src": "src/assets/images/fake_image_server.png",
-
-
             "desc": "A server that returns fake images, useful for web development purposes.",
             "link": "https://github.com/changjam/Fake_Image_Server",
             "tag": ["JS"]
+        },
+        {
+            "id": "real_time_speech",
+            "name": "Real Time Speech To Text",
+            "src": "src/assets/images/real_time_speech.png",
+            "desc": "Use fast whisper to instantly translate languages ​​in various countries.",
+            "link": "https://github.com/changjam/real_time_speech_to_text",
+            "tag": ["Python"]
+        },
+        {
+            "id": "get_note_api",
+            "name": "getNoteAPI",
+            "src": "src/assets/images/get_note_api.png",
+            "desc": "Connect with Hack MD API to quickly create and manage your articles.",
+            "link": "https://github.com/changjam/getNoteAPI",
+            "tag": ["Python"]
         }
     ]
 }
