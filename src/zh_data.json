@@ -131,15 +131,6 @@
             "tag": ["Vue", "JS", "HTML", "SCSS"]
         },
         {
-            "id": "Memorandum_Website",
-            "name": "Memorandum Website",
-            "src": "src/assets/images/Memo_website.png",
-            "desc": "備忘錄，使用前端框架Vue實作，版本為vue2。",
-            "link": "https://github.com/changjam/Memoradum_Website",
-            "categories": ["Front_End"],
-            "tag": ["Vue", "JS", "HTML"]
-        },
-        {
             "id": "Text_Editor",
             "name": "Text Editor",
             "src": "src/assets/images/text_editor.png",

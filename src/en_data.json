@@ -118,6 +118,7 @@
             "src": "src/assets/images/ETT_Website.png",
             "desc": "A website for users to detect the position of an endotracheal tube, determining if it's positioned correctly. Built with vue2.",
             "link": "https://github.com/changjam/ETT_Website",
+            "categories": ["Front_End"],
             "tag": ["Vue", "JS", "HTML"]
         },
         {
@@ -126,15 +127,8 @@
             "src": "src/assets/images/typing_game.png",
             "desc": "A simple typing game inspired by the website 'MonkeyType'. Built with vue3.",
             "link": "https://github.com/changjam/Typing-Game",
+            "categories": ["Front_End"],
             "tag": ["Vue", "JS", "HTML", "SCSS"]
-        },
-        {
-            "id": "Memorandum_Website",
-            "name": "Memorandum Website",
-            "src": "src/assets/images/Memo_website.png",
-            "desc": "A memo website implemented using the Vue frontend framework. Built with vue2.",
-            "link": "https://github.com/changjam/Memoradum_Website",
-            "tag": ["Vue", "JS", "HTML"]
         },
         {
             "id": "Text_Editor",
@@ -142,6 +136,7 @@
             "src": "src/assets/images/text_editor.png",
             "desc": "A text editor implemented using 16 patterns and object-oriented concepts.",
             "link": "https://github.com/changjam/Text_Editor",
+            "categories": ["APP"],
             "tag": ["Java"]
         },
         {
@@ -150,6 +145,7 @@
             "src": "src/assets/images/online_shopping_system.png",
             "desc": "A classwork project implemented a shopping website with database.",
             "link": "https://github.com/changjam/Simple_Online_Shopping_System",
+            "categories": ["Front_End", "Back_End"],
             "tag": ["HTML", "PHP", "CSS"]
         },
         {
@@ -158,6 +154,7 @@
             "src": "src/assets/images/fake_image_server.png",
             "desc": "A server that returns fake images, useful for web development purposes.",
             "link": "https://github.com/changjam/Fake_Image_Server",
+            "categories": ["Back_End"],
             "tag": ["JS"]
         },
         {
@@ -166,6 +163,7 @@
             "src": "src/assets/images/real_time_speech.png",
             "desc": "Use fast whisper to instantly translate languages ​​in various countries.",
             "link": "https://github.com/changjam/real_time_speech_to_text",
+            "categories": ["AI"],
             "tag": ["Python"]
         },
         {
@@ -174,6 +172,7 @@
             "src": "src/assets/images/get_note_api.png",
             "desc": "Connect with Hack MD API to quickly create and manage your articles.",
             "link": "https://github.com/changjam/getNoteAPI",
+            "categories": ["Back_End"],
             "tag": ["Python"]
         }
     ]
